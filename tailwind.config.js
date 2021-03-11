@@ -17,7 +17,7 @@ module.exports = {
             tertiary: '#2E3532',
             error: '#FF6363',
             white: '#FFFFFF',
-            lightGray: '#F9F9F9',
+            lightGray: '#3FA7D6',
             gray: '#F3F3F3',
             transparent: 'transparent'
         }
