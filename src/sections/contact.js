@@ -41,7 +41,7 @@ const Contact = ({ contentModuleId }) => {
                 <p className="mb-4 w-full md:w-3/4" data-sal="slide-up" data-sal-easing="ease-in-cubic">{ content.node.description.description }</p>
                 <form id="contact_form" className="w-full md:w-3/4" noValidate data-sal="slide-up" data-sal-easing="ease-in-cubic" data-sal-delay="100">
                     <div className="input-group mb-2">
-                        <label htmlFor="name">Name</label>
+                        <label htmlFor="name">Nome</label>
                         <input type="text" id="name" className="input" name="name" />
                     </div>
                     <div className="input-group mb-2">
