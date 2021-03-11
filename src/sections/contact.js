@@ -49,7 +49,7 @@ const Contact = ({ contentModuleId }) => {
                         <input type="email" id="email" className="input" name="email" />
                     </div>
                     <div className="input-group">
-                        <label htmlFor="message">Message</label>
+                        <label htmlFor="message">Mensagem</label>
                         <textarea id="message" className="h-20" name="message"></textarea>
                     </div>
                     <button type="submit" className="btn btn--primary mt-8">Send</button>
