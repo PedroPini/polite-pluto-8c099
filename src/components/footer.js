@@ -74,11 +74,6 @@ const Footer = ({ menus }) => {
                             </a>
                         </li>
                         <li className="mb-2 mr-4">
-                            <a href={ data.contentfulContactDetails.twitterUrl }>
-                                <img className="w-6 h-6" src={ require('assets/images/twitter.svg') } alt="Twitter Icon" />
-                            </a>
-                        </li>
-                        <li className="mb-2 mr-4">
                             <a href={ data.contentfulContactDetails.instagramUrl }>
                                 <img className="w-6 h-6" src={ require('assets/images/instagram.svg') } alt="Instagram Icon" />
                             </a>
