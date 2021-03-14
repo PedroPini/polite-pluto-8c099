@@ -13,7 +13,6 @@ const Footer = ({ menus }) => {
                 contactNumber
                 email
                 facebookUrl
-                twitterUrl
                 instagramUrl
             }
         }
