@@ -39,7 +39,7 @@ const Contact = ({ contentModuleId }) => {
             <div className="contact__content">
                 <h2 className="section__title" data-sal="fade" data-sal-easing="ease-in-cubic">{ content.node.heading }</h2>
                 <p className="mb-4 w-full md:w-3/4" data-sal="slide-up" data-sal-easing="ease-in-cubic">{ content.node.description.description }</p>
-                <form id="contact_form" className="w-full md:w-3/4" noValidate data-sal="slide-up" data-sal-easing="ease-in-cubic" data-sal-delay="100">
+                <form id="contact_form" action="https://getform.io/f/c7ff6012-ffe3-4f65-b127-1d07e6f21197" method="POST" className="w-full md:w-3/4" noValidate data-sal="slide-up" data-sal-easing="ease-in-cubic" data-sal-delay="100">
                     <div className="input-group mb-2">
                         <label htmlFor="name">Nome</label>
                         <input type="text" id="name" className="input" name="name" />
