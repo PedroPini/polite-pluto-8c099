@@ -57,7 +57,7 @@ const About = ({ contentModuleId }) => {
                 </div>
                 <div className="about-us__image">
                     <div className="mx-auto about-us__image-wrap" data-sal="slide-up" data-sal-delay="200" data-sal-duration="500">
-                        <Img fluid={ content.node.image.fluid } />
+                        <Img fluid={ content.node.image.fluid } />A
                     </div>
                 </div>
             </div>
