@@ -20,10 +20,10 @@ const Hero = ({ contentModuleId }) => {
                         image {
                             fluid(quality: 100) {
                                  base64
-                                    aspectRatio
-                                    src
-                                    srcSet
-                                    sizes
+                                 aspectRatio
+                                 src
+                                 srcSet
+                                 sizes
                             }
                         }
                     }
