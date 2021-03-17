@@ -19,11 +19,7 @@ const Hero = ({ contentModuleId }) => {
                         ctaUrl
                         image {
                             fluid(quality: 100) {
-                                 base64
-                                 aspectRatio
-                                 src
-                                 srcSet
-                                 sizes
+                                ...GatsbyContentfulFluid
                             }
                         }
                     }
