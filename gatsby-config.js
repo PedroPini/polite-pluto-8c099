@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
     siteMetadata: {
         title: `TourAz`,
-        description: `A One-page Gatsby starter built with Tailwindcss and  Postcss.`,
+        description: `Somos uma empresa de tour virtual, virtualização e`,
         author: `The Bakerdev`,
     },
     plugins: [
