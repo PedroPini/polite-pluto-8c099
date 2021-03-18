@@ -6,7 +6,7 @@ module.exports = {
     siteMetadata: {
         title: `TourAz`,
         description: `Somos uma empresa de tour virtual, virtualização e criação de ambientes em 360`,
-        author: `The Bakerdev`,
+        author: `Pedro Pini`,
     },
     plugins: [
         {
