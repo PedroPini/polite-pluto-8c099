@@ -19,8 +19,8 @@ module.exports = {
               ],
               display: 'swap',
               attributes: {
-          rel: "stylesheet preload prefetch",
-        },
+                rel: "stylesheet preload prefetch",
+              },
             }
         },
         "gatsby-plugin-postcss",
