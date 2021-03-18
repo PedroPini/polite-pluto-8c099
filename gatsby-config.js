@@ -42,7 +42,7 @@ module.exports = {
                 short_name: `touraz`,
                 start_url: `/`,
                 background_color: `#EFF9F0`,
-                theme_color: `#6C63FF`,
+                theme_color: `#2E3532`,
                 display: `minimal-ui`,
                 icon: `src/assets/images/favicon.png`,
             }
