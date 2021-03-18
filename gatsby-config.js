@@ -5,7 +5,7 @@ require("dotenv").config({
 module.exports = {
     siteMetadata: {
         title: `TourAz`,
-        description: `Somos uma empresa de tour virtual, virtualização e`,
+        description: `Somos uma empresa de tour virtual, virtualização e criação de ambientes em 360`,
         author: `The Bakerdev`,
     },
     plugins: [
