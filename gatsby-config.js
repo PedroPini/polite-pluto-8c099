@@ -38,7 +38,7 @@ module.exports = {
         {
             resolve: `gatsby-plugin-manifest`,
             options: {
-                name: `Zenii Gatsby`,
+                name: `Touraz`,
                 short_name: `zenii`,
                 start_url: `/`,
                 background_color: `#6C63FF`,
