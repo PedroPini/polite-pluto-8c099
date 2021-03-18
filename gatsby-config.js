@@ -10,7 +10,7 @@ module.exports = {
     },
     plugins: [
         {
-            resolve: `gatsby-plugin-google-fonts`,
+            resolve: `gatsby-plugin-google-fonts-with-attributes`,
             options: {
               fonts: [
                 `material icons`,  
