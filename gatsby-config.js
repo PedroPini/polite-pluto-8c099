@@ -39,7 +39,7 @@ module.exports = {
             resolve: `gatsby-plugin-manifest`,
             options: {
                 name: `Touraz`,
-                short_name: `zenii`,
+                short_name: `tour`,
                 start_url: `/`,
                 background_color: `#6C63FF`,
                 theme_color: `#6C63FF`,
