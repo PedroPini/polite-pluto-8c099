@@ -17,7 +17,10 @@ module.exports = {
                 `Roboto\:400,700`,  
                 `Rubik\:400,700`
               ],
-              display: 'swap'
+              display: 'swap',
+              attributes: {
+          rel: "stylesheet preload prefetch",
+        },
             }
         },
         "gatsby-plugin-postcss",
