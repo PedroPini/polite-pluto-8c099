@@ -26,6 +26,7 @@ module.exports = {
         "gatsby-plugin-postcss",
         `gatsby-plugin-preact`,
         "gatsby-plugin-react-helmet",
+        "gatsby-plugin-offline",
         "gatsby-plugin-resolve-src",
         {
             resolve: `gatsby-source-filesystem`,
