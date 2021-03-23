@@ -22,6 +22,7 @@
     "contentful-import": "^7.9.6",
     "gatsby": "^2.23.12",
     "gatsby-image": "^2.4.14",
+    "cross-env": "^7.0.3",
     "gatsby-plugin-google-fonts-with-attributes": "^1.0.7",
     "gatsby-plugin-manifest": "^2.4.21",
     "gatsby-plugin-offline": "^3.2.21",
